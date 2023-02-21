@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.text, .text2{
+  color: rgb(16, 218, 16);
+  font-weight: bold;
+}
+.text2{
+  color: red;
+}
